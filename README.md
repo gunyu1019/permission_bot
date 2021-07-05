@@ -11,7 +11,7 @@ token = YOUR_DISCORD_BOT_TOKEN
 prefix = !
 ```
 2. Discord Developers 에서 발급 받은 디스코드 봇의 토큰을 `token`에 대입해줍니다.
-3. python 을 통하여 main.py를 실행합니다.
+3. python 을 통하여 `main.py`를 실행합니다.
 
 ### Structure
 해당 봇의 주요 코드는 아래 3곳에 포함되어 있습니다.
