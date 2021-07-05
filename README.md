@@ -1,5 +1,6 @@
 # Permission Bot
 디스코드 내에 있는 [message-components](https://discord.com/developers/docs/interactions/message-components) 를 연구하기 위하여 제작된 봇입니다.
+![Support_the_Companion_quickly_at_discord.py](https://user-images.githubusercontent.com/16767890/124504287-1e06e000-de02-11eb-9c07-1988b7182aec.gif)
 
 ### Setup
 1. `/config/config_example.ini` 파일을 `/config/config.ini`으로 변환합니다.
