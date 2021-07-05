@@ -17,5 +17,5 @@ prefix = !
 ### Structure
 해당 봇의 주요 코드는 아래 3곳에 포함되어 있습니다.
 * [cog.general](cogs/general.py): 명령어를 처리합니다.
-* [cog.socket](cogs/general.py): `Button` 혹은 `Selection`에 대한 상호작용이 발생했을 떄에 대한 코드가 작성되어 있습니다.
+* [cog.socket](cogs/socket.py): `Button` 혹은 `Selection`에 대한 상호작용이 발생했을 떄에 대한 코드가 작성되어 있습니다.
 * [module.components](module/components.py): `Discord Components` 에 대한 주요 클래스가 작성되어 있습니다.
